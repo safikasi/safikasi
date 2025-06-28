@@ -19,8 +19,6 @@
 
     body {
       font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
     }
 
     h1, h3, h4 {
@@ -47,35 +45,12 @@
     .icon {
       margin: 10px;
     }
-
-    .stats-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 20px;
-      justify-items: center;
-      align-items: center;
-      margin: 20px;
-    }
-
-    .stats-grid img {
-      max-width: 100%;
-      height: auto;
-    }
-
-    .divider {
-      margin: 20px 0;
-      border: 0;
-      border-top: 3px solid #ccc;
-      border-radius: 5px;
-    }
   </style>
 </head>
 <body>
   <h1 align="center">Hi 👋, I'm Safwan Kasi</h1>
-  <hr class="divider">
 
   <h3 class="blinking-text" id="header"></h3>
-  <hr class="divider">
 
   <h4 align="left">
     <span class="bold">About Me:</span><br><br>
@@ -84,7 +59,6 @@
     🌱 Just dipping my toes into machine learning and deep learning<br>
     💼 Open to internship and job opportunities.
   </h4>
-  <hr class="divider">
 
   <h3 align="center">💻 Programming & Markup Languages:</h3>
   <div class="container">
@@ -95,7 +69,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" class="icon" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" class="icon" />
   </div>
-  <hr class="divider">
 
   <h3 align="center">🛠️ Frameworks & Libraries:</h3>
   <div class="container">
@@ -105,7 +78,6 @@
     <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo" class="icon" />
     <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo" class="icon" />
   </div>
-  <hr class="divider">
 
   <h3 align="center">📂 Databases:</h3>
   <div class="container">
@@ -114,7 +86,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40" alt="neo4j logo" class="icon" />
     <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="40" alt="apachecassandra logo" class="icon" />
   </div>
-  <hr class="divider">
 
   <h3 align="center">🔧 Tools & Technologies:</h3>
   <div class="container">
@@ -124,16 +95,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" class="icon" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" class="icon" />
   </div>
-  <hr class="divider">
 
   <h3 align="center">📊 GitHub Stats:</h3>
-  <div class="stats-grid">
-    <img src="https://github-readme-stats.vercel.app/api?username=safikasi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=safikasi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph" />
-    <img src="https://streak-stats.demolab.com?user=safikasi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=safikasi&radius=16&theme=react&area=true&order=5" alt="activity-graph graph" />
+  <div class="container">
+    <img src="https://github-readme-stats.vercel.app/api?username=safikasi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=safikasi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+    <img src="https://streak-stats.demolab.com?user=safikasi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=safikasi&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
   </div>
-  <hr class="divider">
 
   <script>
     const header = document.getElementById('header');
