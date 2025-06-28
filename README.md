@@ -2,7 +2,31 @@
 
 <hr style="height: 2px; background-color: #555; border: none; margin: 20px 0;">
 
-<h3 align="center">Python Enthusiast | Aspiring AI Innovator</h3>
+<h3 align="center">
+  <style>
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+
+    .blink-line {
+      display: inline-block;
+      animation: blink 2s infinite;
+      background: linear-gradient(90deg, #00f2ff, #005eff);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      font-weight: bold;
+    }
+
+    .blink-line:nth-child(2) {
+      animation-delay: 1s;
+    }
+  </style>
+
+  <span class="blink-line">Python Enthusiast</span>
+  <br>
+  <span class="blink-line">Aspiring AI Innovator</span>
+</h3>
 
 <hr style="height: 2px; background-color: #555; border: none; margin: 20px 0;">
 
