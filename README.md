@@ -6,7 +6,11 @@
 
 ###
 
-<h4 align="left">About Me:<br><br>🎓 Computer Science Student at NUST.<br>🧠 Currently pursuing a BS in Computer Science.<br>🌱 Just dipping my toes into machine learning and deep learning<br>💼 Open to internship and job opportunities.</h4>
+<h4 align="left">About Me:<br><br>🎓 Computer Science Student at NUST.<br>🧠 Currently pursuing a BS in Computer Science.<br>🌱 Just dipping my toes into Machine Learning, Data Science and Deep Learning<br>💼 Open to internship and job opportunities.</h4>
+
+###
+
+<h3 align="center">💻 Programming & Markup Languages:</h3>
 
 ###
 
@@ -45,10 +49,6 @@
 ###
 
 <h3 align="center">📂 Databases:</h3>
-
-###
-
-<h3 align="center">💻 Programming & Markup Languages:</h3>
 
 ###
 
