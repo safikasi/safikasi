@@ -1,10 +1,10 @@
 ---
 
-<h1 align="center">Hi 👋, I'm Hamza Sajid</h1>
+<h1 align="center">Hi 👋, I'm Safwan Kasi</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=550&height=60&lines=Full+Stack+Web+Developer;2D+Game+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=550&height=60&lines=Python+Enthusiast;Aspiring AI Innovator;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,9 +14,8 @@
 
 - 🎓 **Computer Science Student** at [NUST](https://nust.edu.pk/).
 - 🧠 Currently pursuing a **BS in Computer Science**.
-- 🌱 I’m always **learning new things** to stay ahead in the tech world.
+- 🌱 Just dipping my toes into machine learning and deep learning.
 - 💼 Open to **internship** and **job opportunities**.  
-  Check out my **[Portfolio Website](https://personal-portfolio-phi-mocha.vercel.app/)**!
 
 ---
 
