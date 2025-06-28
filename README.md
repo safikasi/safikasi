@@ -1,145 +1,119 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Safwan Kasi</title>
-  <style>
-    @keyframes blink {
-      50% { opacity: 0; }
-    }
+---
 
-    .blinking-text {
-      font-size: 1.5rem;
-      font-weight: bold;
-      animation: blink 1s steps(1, end) infinite;
-      text-align: center;
-    }
+<h1 align="center">Hi 👋, I'm Hamza Sajid</h1>
 
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f9f9f9;
-      color: #333;
-      margin: 0;
-      padding: 20px;
-    }
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=550&height=60&lines=Full+Stack+Web+Developer;2D+Game+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
 
-    h1, h3 {
-      text-align: center;
-    }
+---
 
-    h4 {
-      margin-top: 20px;
-      font-size: 1rem;
-    }
+### About Me:
 
-    .bold {
-      font-weight: bold;
-    }
+- 🎓 **Computer Science Student** at [NUST](https://nust.edu.pk/).
+- 🧠 Currently pursuing a **BS in Computer Science**.
+- 🌱 I’m always **learning new things** to stay ahead in the tech world.
+- 💼 Open to **internship** and **job opportunities**.  
+  Check out my **[Portfolio Website](https://personal-portfolio-phi-mocha.vercel.app/)**!
 
-    .container {
-      display: flex;
-      justify-content: center;
-      flex-wrap: wrap;
-      gap: 15px;
-      margin: 20px auto;
-      max-width: 1000px;
-    }
+---
 
-    .icon {
-      width: 40px;
-      height: 40px;
-      transition: transform 0.3s ease;
-    }
+### <p align="center">💻 Programming & Markup Languages:</p>
 
-    .icon:hover {
-      transform: scale(1.2);
-    }
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" /><br></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" /><br></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" /><br></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/c/A8B9CC" height="50" /><br></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" /><br></td>
+  </tr>
+</table>
 
-    .section {
-      margin-top: 40px;
-    }
+---
 
-    .github-stats {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 10px;
-    }
+### <p align="center">🛠️ Frameworks & Libraries:</p>
 
-    img[alt="activity-graph graph"] {
-      width: 100%;
-      max-width: 600px;
-    }
-  </style>
-</head>
-<body>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" /><br></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" height="50" /><br></td>
+     <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-NWDDg0jgqCmlKYimfFD0pcAVEko0-Phyhw&s)" height="50" /><br></td>
+ <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  /><br></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="50" /><br></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" /><br></td>
+        <td align="center">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" height="40" alt="sdl logo"  />
+<br></td>
+    <td align="center"><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><br></td>
+  </tr>
+</table>
 
-  <h1 align="center">Hi 👋, I'm Safwan Kasi</h1>
-  <div class="blinking-text" id="header"></div>
+---
 
-  <h4 align="left">
-    <span class="bold">About Me:</span><br><br>
-    🎓 Computer Science Student at NUST.<br>
-    🧠 Currently pursuing a BS in Computer Science.<br>
-    🌱 Just dipping my toes into machine learning and deep learning<br>
-    💼 Open to internship and job opportunities.
-  </h4>
+### <p align="center">📂 Databases:</p>
 
-  <h3>💻 Programming & Markup Languages:</h3>
-  <div class="container">
-    <img src="https://cdn.simpleicons.org/c++/00599C " alt="cplusplus logo" class="icon" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg " alt="javascript logo" class="icon" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg " alt="python logo" class="icon" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg " alt="html5 logo" class="icon" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg " alt="css3 logo" class="icon" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg " alt="c logo" class="icon" />
-  </div>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" /><br></td>
+    <td align="center"><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" /><br></td>
+  </tr>
+</table>
 
-  <h3>🛠️ Frameworks & Libraries:</h3>
-  <div class="container">
-    <img src="https://cdn.simpleicons.org/pandas/150458 " alt="pandas logo" class="icon" />
-    <img src="https://cdn.simpleicons.org/pycharm/000000 " alt="pycharm logo" class="icon" />
-    <img src="https://cdn.simpleicons.org/pytest/0A9EDC " alt="pytest logo" class="icon" />
-    <img src="https://cdn.simpleicons.org/pytorch/EE4C2C " alt="pytorch logo" class="icon" />
-    <img src="https://cdn.simpleicons.org/numpy/013243 " alt="numpy logo" class="icon" />
-  </div>
+---
 
-  <h3>📂 Databases:</h3>
-  <div class="container">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg " alt="mysql logo" class="icon" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg " alt="mongodb logo" class="icon" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg " alt="neo4j logo" class="icon" />
-    <img src="https://cdn.simpleicons.org/apachecassandra/1287B1 " alt="apachecassandra logo" class="icon" />
-  </div>
+### <p align="center">🔧 Tools & Technologies:</p>
 
-  <h3>🔧 Tools & Technologies:</h3>
-  <div class="container">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg " alt="git logo" class="icon" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg " alt="github logo" class="icon" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg " alt="figma logo" class="icon" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg " alt="flutter logo" class="icon" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg " alt="vscode logo" class="icon" />
-  </div>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" /><br></td>
+    <td align="center"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" /><br></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" /><br></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=arduino" height="40" /><br></td>
+    <td align="center"><img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=black&style=for-the-badge" height="40" /><br></td>
+    <td align="center"><img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="40" /><br></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="Metamask" /></a></td>
+  </tr>
+</table>
 
-  <div class="section github-stats">
-    <h3>📊 GitHub Stats:</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=safikasi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-    <img src=" https://github-readme-stats.vercel.app/api/top-langs?username=safikasi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-    <img src=" https://streak-stats.demolab.com ?user=safikasi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=safikasi&radius=16&theme=react&area=true" alt="activity graph" />
-  </div>
+---
 
-  <script>
-    const header = document.getElementById('header');
-    const texts = ['Python Enthusiast', 'Aspiring AI Innovator'];
-    let index = 0;
+### <p align="center">📊 GitHub Stats:</p>
 
-    setInterval(() => {
-      header.textContent = texts[index];
-      index = (index + 1) % texts.length;
-    }, 1000);
-  </script>
 
-</body>
-</html>
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HAMZOO0&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=react&hide_border=true&order=2" height="182" alt="languages graph"  />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=HAMZOO0&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=HAMZOO0&locale=en&mode=daily&theme=react&hide_border=true&border_radius=20&order=3" height="150" alt="streak graph"  />
+ <br>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HAMZOO0&radius=50&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HAMZOO0/HAMZOO0/main/profile-3d-contrib/profile-night-rainbow.svg">
+  <img alt="GitHub Contributions 3D" src="https://raw.githubusercontent.com/HAMZOO0/HAMZOO0/main/profile-3d-contrib/profile-night-rainbow.svg">
+</picture>
+
+
+
+###
+
+---
